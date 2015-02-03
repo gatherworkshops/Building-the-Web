@@ -1,3 +1,14 @@
+---
+title: gallery-html
+section: imagegallery
+layout: slide
+class: default-slide
+
+notes: |
+  Move on once everyone has at least two images in their gallery.
+
+---
+
 ## Gallery
 
 Now we can create a gallery.
@@ -15,6 +26,3 @@ Here's the code to add one image to your gallery:
 See if you can add at least three images.
 
 Don't worry about the sizes for now, we will fix that next.
-
-Note:
-Move on once everyone has at least two images in their gallery.

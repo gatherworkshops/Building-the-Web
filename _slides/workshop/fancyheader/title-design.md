@@ -1,3 +1,13 @@
+---
+title: title-design
+section: fancyheader
+layout: slide
+class: default-slide
+
+notes: |
+  :)
+---
+
 ## Title Design
 
 Once our font is decided, we can tweak some other options:

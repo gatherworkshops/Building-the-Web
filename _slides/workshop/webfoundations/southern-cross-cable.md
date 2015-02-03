@@ -13,4 +13,5 @@ notes: |
 ---
 
 ### Chorus owns the Southern Cross Cable
+
 They could slow down international requests for other ISPs

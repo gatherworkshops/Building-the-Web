@@ -1,8 +1,15 @@
-![Gather Workshops Logo](/Building-the-Web/slideshow/images/gw_logo_header.png)
+---
+title: title-page
+section: htmlbasics
+layout: slide
+class: title-slide
+
+notes: |
+  Let's begin with HTML.
+---
+
+![Gather Workshops Logo](/Building-the-Web/images/gw_logo.png)
 
 # Dive into HTML
-### The structural layer
 
-
-Note:
-Let's begin with HTML.
+_The structural layer_

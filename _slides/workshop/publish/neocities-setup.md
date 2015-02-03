@@ -1,3 +1,14 @@
+---
+title: neocities-setup
+section: publish
+layout: slide
+class: default-slide
+
+notes: |
+  Create a Neocities account and upload our starter code from the zip we just downloaded.
+
+---
+
 ## Neocities
 
 Create an account at [Neocities](http://neocities.org)
@@ -8,8 +19,3 @@ Create an account at [Neocities](http://neocities.org)
 
 <br>
 Woohoo, done!
-
-
-
-Note:
-Create a Neocities account and upload our starter code from the zip we just downloaded.

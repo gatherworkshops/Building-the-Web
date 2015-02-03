@@ -1,8 +1,16 @@
-![Gather Workshops Logo](/Building-the-Web/slideshow/images/gw_logo_header.png)
+---
+title: title-page
+section: introsection
+layout: slide
+class: title-slide
+
+notes: |
+  :)
+
+---
+
+![Gather Workshops Logo](/Building-the-Web/images/gw_logo.png)
 
 # A Simple Introduction
-### Add a really basic section welcoming your visitors
 
-
-Note:
-//TODO
+_Add a really basic section welcoming your visitors_

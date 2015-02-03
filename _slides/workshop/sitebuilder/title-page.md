@@ -1,8 +1,15 @@
-![Gather Workshops Logo](/Building-the-Web/slideshow/images/gw_logo_header.png)
+---
+title: title-page
+section: sitebuilder
+layout: slide
+class: title-slide
+
+notes: |
+  Let's begin with HTML.
+
+---
+
+![Gather Workshops Logo](/Building-the-Web/images/gw_logo.png)
 
 # Build Your Own
-### DIY - it's in our DNA
-
-
-Note:
-Let's begin with HTML.
+_DIY - it's in our DNA_

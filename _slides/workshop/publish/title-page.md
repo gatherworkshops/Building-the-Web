@@ -1,8 +1,16 @@
-![Gather Workshops Logo](/Building-the-Web/slideshow/images/gw_logo_header.png)
+---
+title: title-page
+section: publish
+layout: slide
+class: title-slide
+
+notes: |
+  :)
+
+---
+
+![Gather Workshops Logo](/Building-the-Web/images/gw_logo.png)
 
 # Publish Your Site
-### Let's get your page up on the web!
 
-
-Note:
-// TODO
+_Let's get your page up on the web!_

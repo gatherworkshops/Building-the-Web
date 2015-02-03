@@ -2,7 +2,7 @@
 title: web-censorship
 section: webfoundations
 layout: slide
-class: title-slide
+class: centered-slide
 
 notes: |
 

@@ -15,7 +15,8 @@ notes: |
 - Cats
 - Computers
 - YouTube
-- Telecom
+- Spark
+- Games
 - Communication
 - Facebook
 - Email

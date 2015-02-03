@@ -15,8 +15,8 @@ notes: |
 ---
 
 
-![Gather Workshops Logo](/Building-the-Web/slideshow/images/gw_logo_header.png)
+![Gather Workshops Logo](/Building-the-Web/images/gw_logo.png)
 
 # Building the Web
 
- _An Introduction to HTML & CSS_
+_An Introduction to HTML & CSS_

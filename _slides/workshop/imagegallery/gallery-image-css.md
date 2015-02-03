@@ -1,3 +1,14 @@
+---
+title: gallery-image-css
+section: imagegallery
+layout: slide
+class: default-slide
+
+notes: |
+  :)
+
+---
+
 ## Gallery Image CSS
 
 	.gallery img {

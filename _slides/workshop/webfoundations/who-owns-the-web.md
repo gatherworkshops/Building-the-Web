@@ -2,7 +2,7 @@
 title: who-owns-the-web
 section: webfoundations
 layout: slide
-class: title-slide
+class: centered-slide
 
 notes: |
 

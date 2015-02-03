@@ -1,8 +1,16 @@
-![Gather Workshops Logo](/Building-the-Web/slideshow/images/gw_logo_header.png)
+---
+title: title-page
+section: imagegallery
+layout: slide
+class: title-slide
+
+notes: |
+  :)
+
+---
+
+![Gather Workshops Logo](/Building-the-Web/images/gw_logo.png)
 
 # Image Gallery
-### Adding a set of images to your page
 
-
-Note:
-// TODO
+_Adding a set of images to your page_

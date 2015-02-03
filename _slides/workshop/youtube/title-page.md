@@ -1,8 +1,15 @@
-![Gather Workshops Logo](/Building-the-Web/slideshow/images/gw_logo_header.png)
+---
+title: title-page
+section: youtube
+layout: slide
+class: title-slide
+
+notes: |
+  :)
+---
+
+![Gather Workshops Logo](/Building-the-Web/images/gw_logo.png)
 
 # Embedding YouTube Videos
-### Video chaos!
 
-
-Note:
-// TODO
+_Video chaos!_

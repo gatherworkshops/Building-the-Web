@@ -1,7 +1,7 @@
 name: Building the Web
 baseurl: "/Building-the-Web"
 markdown: redcarpet
-highlighter: false
+highlighter: true
 collections:
   slides:
-    output: true
+    output: false

@@ -1,3 +1,13 @@
+---
+title: google-font-example
+section: fancyheader
+layout: slide
+class: default-slide
+
+notes: |
+  :)
+---
+
 ## Applying the font to our header
 
 In our case, we'll be adding the font to our `<h1>` element.

@@ -1,3 +1,16 @@
+---
+title: self-closing
+section: htmlbasics
+layout: slide
+class: default-slide
+
+notes: |
+  So we've learned all about tag pairs. Most HTML tags are like that, but we also have some special cases.
+
+  These special cases are tags which only need an opening tag, no closing tag.
+
+---
+
 ## Self-closing Elements
 
 Self-closing elements have no closing tag - only an opening tag.
@@ -14,16 +27,6 @@ The image tag requires the `src` attribute, which stands for "source". <br>
 The `src` is a URL for an image on the Internet.
 
 Try out these new tags in [Dabblet](http://dabblet.com/gist/0f28783f38d731e2be9f)<!-- .element: target="_blank" -->
-
-
-
-
-Note:
-
-So we've learned all about tag pairs. Most HTML tags are like that, but we also have some special cases.
-
-These special cases are tags which only need an opening tag, no closing tag.
-
 
 
 

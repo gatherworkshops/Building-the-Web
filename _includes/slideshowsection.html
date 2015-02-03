@@ -3,10 +3,10 @@
 	{% capture loop %}
 
 		{% for slide in slideset %}
-			
+
 			{% if slide.section == section.sectionname %}
 				{% if slide.title == slidename %}
-					
+				
 					{% capture slidecontent %}{{ slide.output }}{% endcapture %}
 
 				{% endif %}

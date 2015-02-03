@@ -1,3 +1,16 @@
+---
+title: common-tag-pairs
+section: htmlbasics
+layout: slide
+class: default-slide
+
+notes: |
+  Try out some of these new tags in Dabblet and see what effects they create.
+
+  Press "down" in here to see a preview of how it should look once you're done!
+
+---
+
 ## Common tag pairs
 
 Heading tags:
@@ -13,15 +26,6 @@ Normal text tags:
 	<em>Emphasised text in italics</em>
 
 Try these new tags in [Dabblet](http://dabblet.com/gist/8eebcbda8010a850dc4c)<!-- .element: target="_blank" -->
-
-
-
-
-Note:
-
-Try out some of these new tags in Dabblet and see what effects they create.
-
-Press "down" in here to see a preview of how it should look once you're done!
 
 
 

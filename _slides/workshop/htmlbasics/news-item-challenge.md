@@ -1,3 +1,16 @@
+---
+title: news-item-challenge
+section: htmlbasics
+layout: slide
+class: default-slide
+
+notes: |
+  Now that you've learned a bit about how HTML is structured, let's try playing with some HTML on real websites.
+
+  Go to NZHerald, right click a heading, a paragraph, or an image and change the values to make some breaking news of your own.
+
+---
+
 ## Challenge
 
 **Design your own "Breaking News" item:**
@@ -11,8 +24,3 @@
 - Modify the paragraph text to match your headline
 - Change the image source to link to a different image
 - Take a screenshot!
-
-Note:
-Now that you've learned a bit about how HTML is structured, let's try playing with some HTML on real websites.
-
-Go to NZHerald, right click a heading, a paragraph, or an image and change the values to make some breaking news of your own.

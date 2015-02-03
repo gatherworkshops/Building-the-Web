@@ -1,8 +1,16 @@
-![Gather Workshops Logo](/Building-the-Web/slideshow/images/gw_logo_header.png)
+---
+title: title-page
+section: pagestructure
+layout: slide
+class: title-slide
+
+notes: |
+  This is a short section on the languages we are learning today and the role they play.
+
+---
+
+![Gather Workshops Logo](/Building-the-Web/images/gw_logo.png)
 
 # What Lies Beneath
-## The bones of a web page
 
-
-Note:
-This is a short section on the languages we are learning today and the role they play.
+_The bones of a web page_
