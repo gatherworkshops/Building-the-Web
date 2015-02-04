@@ -34,7 +34,7 @@
     }
 }
 
-.recipe .page-content>div {
+.recipe .page-content>section {
 
 	padding-top: 20px;
 	padding-bottom: 40px;
@@ -47,6 +47,16 @@
 
 	h2 {
 		margin-top: 20px;
+	}
+
+	.source {
+		span {
+			font-size: 80%;
+			display: block;
+		}
+		a {
+			font-style: italic;
+		}
 	}
 
 }
