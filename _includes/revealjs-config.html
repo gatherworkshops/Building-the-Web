@@ -41,7 +41,7 @@
 	} );
 
 	function copyNotes(slide) {
-		notes = $(event.currentSlide).find('aside.notes').html();
+		notes = $(slide).find('aside.notes').html();
 	    $('.inline-notes .content').html( marked(notes) );
 	}
 
