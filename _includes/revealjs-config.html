@@ -34,6 +34,7 @@
 
 	Reveal.addEventListener( 'ready', function( event ) {
 		copyNotes(event.currentSlide);
+		checkNotesState();
 	} );
 
 	Reveal.addEventListener( 'slidechanged', function( event ) {
@@ -45,12 +46,32 @@
 	    $('.inline-notes .content').html( marked(notes) );
 	}
 
+	function showNotes() {
+		$("body").toggleClass("with-notes");
+	}
+
 	$(document).keypress(function(e) {
 	  	if(e.which == 13) {
-	  		$("body").toggleClass("with-notes");
+	  		showNotes();
 	  	}
 	});
+    
+    function checkNotesState() {
 
+	    // show the notes on page load if notesByDefault has been 
+	    // set to true in the page's front matter.
+	    {% if page.notesByDefault %}
+	      var notesByDefault = {{ page.notesByDefault }};
+	    {% else %}
+	      var notesByDefault = false;
+	    {% endif %}
+
+	    if(notesByDefault == true) {
+	    	showNotes();
+	    }
+	}
+
+	
 		
 
 </script>
