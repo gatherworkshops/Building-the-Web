@@ -5,11 +5,18 @@ layout: slide
 class: centered-slide
 
 notes: |
-  :) 
+  Your mentors are super friendly, make sure to say hi.
+
+  They actually get paid to do this stuff for a job, which is super cool.
+
+  You can ask them for help with your code, ask them about their day job, or ask them what their favourite colour is.
+
+  They're here to help, so ask them anything :)
 
 ---
 
 ## Say hi to your mentors!
 
-They're here to help you out if you get stuck,
-you can ask them (almost) anything!
+Your mentors are here to help if you get stuck,<br>
+and you can ask them (almost) anything!
+
