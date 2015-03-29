@@ -1,6 +1,6 @@
 ---
 title: title-page
-section: webfoundations
+section: welcome
 layout: slide
 class: title-slide
 
@@ -17,5 +17,5 @@ notes: |
 
 ![Gather Workshops Logo](/Building-the-Web/images/gw_logo.png)
 
-# Mission One
-_Figure out how the Internet works_
+# Building the Web
+_Create and publish your own web page_

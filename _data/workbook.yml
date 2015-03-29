@@ -1,10 +1,3 @@
-- sectionname: welcome
-  slides:
-    - title-page
-    - mentors
-    - introductions
-    - schedule
-
 - sectionname: webfoundations
   slides:
     - title-page
