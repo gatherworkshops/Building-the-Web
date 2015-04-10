@@ -15,4 +15,4 @@ notes: |
 
 ### A web page is made of three main languages
 
-![Venn diagram of HTML, CSS and JS all overlapping](/Building-the-Web/slides/workshop/images/html_css_js.png)
+![Venn diagram of HTML, CSS and JS all overlapping](/Building-the-Web/slides/workshop/webfoundations/images/html_css_js.png)

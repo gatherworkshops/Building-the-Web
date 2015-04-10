@@ -6,11 +6,11 @@ class: default-slide
 
 notes: |
   
-  The `<header>` element has no styles already associated with it.
+  The `header` element has no styles already associated with it.
 
   It is pretty much just a see-through box which you can use to contain anything you want.
 
-  Using a `<header>` allows us to group together all the elements which are part of the header, for easy styling using CSS.
+  Using a `header` allows us to group together all the elements which are part of the header, for easy styling using CSS.
 
 ---
 

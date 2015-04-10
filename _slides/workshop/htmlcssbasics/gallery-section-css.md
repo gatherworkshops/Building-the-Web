@@ -20,6 +20,6 @@ We can style our gallery section the same way.
       text-align: center;
     }
 
-Then in your HTML code, add `section` tags around your gallery images. Remeber to add the class!
+Then in your HTML code, add `section` tags around your gallery images. Remember to add the class!
 
 If you can't remember how, there is code on the next page...

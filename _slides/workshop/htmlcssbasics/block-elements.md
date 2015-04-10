@@ -17,7 +17,5 @@ notes: |
 
 Block elements are the "building blocks" of our website. 
 
-![Site Wireframe]()
-
 Block elements are used for layout, and can contain other elements.
 

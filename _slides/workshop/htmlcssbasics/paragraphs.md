@@ -5,7 +5,9 @@ layout: slide
 class: default-slide
 
 notes: |
-  :)
+  Paragraphs of text use the `p` element.
+
+  A paragraph of text will automatically have some space before and after it.
 
 ---
 

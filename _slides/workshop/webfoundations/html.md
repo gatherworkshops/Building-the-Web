@@ -17,4 +17,4 @@ notes: |
 
 ### **HTML** is the markup language
 
-![Screenshot of Google with only HTML enabled](/Building-the-Web/slides/workshop/images/google_html.png)
+![Screenshot of Google with only HTML enabled](/Building-the-Web/slides/workshop/webfoundations/images/google_html.png)

@@ -19,4 +19,4 @@ notes: |
 
 ### **CSS** is the style sheet language
 
-![Screenshot of Google with both HTML and CSS enabled](/Building-the-Web/slides/workshop/images/google_html_css.png)
+![Screenshot of Google with both HTML and CSS enabled](/Building-the-Web/slides/workshop/webfoundations/images/google_html_css.png)

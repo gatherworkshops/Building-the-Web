@@ -2,13 +2,13 @@
 title: introduction
 section: pagebuilder
 layout: slide
-class: default-slide
+class: centered-slide
 
 notes: |
   :)
 
 ---
 
-# A Simple Introduction
+## A Simple Introduction
 
 _Add a really basic section welcoming your visitors_

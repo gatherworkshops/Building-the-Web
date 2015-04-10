@@ -19,4 +19,6 @@ Find your opening `<a>` tag. Add in the `href` and link.
 
     <a href="http://en.wikipedia.org/wiki/Alpaca">Wikipedia</a>
 
-The only part we added was `href="http://en.wikipedia.org/wiki/Alpaca"`.
+The only part we added was: 
+
+    href="http://en.wikipedia.org/wiki/Alpaca"

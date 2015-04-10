@@ -11,3 +11,5 @@ notes: |
 
 
 ## Footer
+
+_Adding a footer to your page_

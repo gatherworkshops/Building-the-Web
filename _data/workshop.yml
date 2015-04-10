@@ -95,17 +95,17 @@
     - header
     - header-html
     - header-css
-    - header-ideas
+    - x-header-ideas
 
     - introduction
     - intro-html
     - intro-css
-    - intro-ideas
+    - x-intro-ideas
 
     - footer
     - footer-html
     - footer-css
-    - footer-ideas
+    - x-footer-ideas
 
     - summary
 

@@ -5,7 +5,9 @@ layout: slide
 class: default-slide
 
 notes: |
-  :)
+  Just like we used `h1` for the most important title on the page, we can use `h2` for headings which are second most important.
+
+  The start and end of the element are still written the same, with the extra "slash" in the closing tag.
 
 ---
 
