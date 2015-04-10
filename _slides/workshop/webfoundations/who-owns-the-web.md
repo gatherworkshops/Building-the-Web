@@ -15,3 +15,6 @@ notes: |
 ---
 
 # Who owns it all?
+
+_Who owns the Internet?_<br>
+_And who owns the Web?_

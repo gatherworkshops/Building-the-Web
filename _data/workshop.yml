@@ -8,12 +8,20 @@
 - sectionname: webfoundations
   slides:
     - title-page
+
     - what-is-the-web
     - internet-brainstorm
     - internet-vs-web
     - definitions
     - who-owns-the-web
     - claiming-ownership
+
+    - languages
+    - html
+    - css
+    - javascript
+    - website-files
+
     - loading-a-webpage
     - telephone-comparison
     - charging-for-websites
@@ -22,50 +30,146 @@
     - net-neutrality
     - open-web-values
     - the-open-web
+
     - summary
 
-
-- sectionname: pagestructure
+- sectionname: htmlcssbasics
   slides:
     - title-page
-    - languages
-    - html
-    - css
-    - javascript
-    - summary
 
+    - alpaca-html-challenge
+    - html-code-editor
+    - alpaca-example
+    - headings
+    - subheadings
+    - paragraphs
+    - link-tag
+    - link-attribute
+    - image-tags
+    - image-source
+    - alpaca-output
 
-- sectionname: htmlbasics
-  slides:
-    - title-page
-    - lets-play
-    - tag-pairs-intro
-    - common-tag-pairs
-    - links-and-attributes
-    - links-challenge
-    - self-closing
-    - news-item-challenge
-
-
-- sectionname: cssbasics
-  slides:
-    - title-page
-    - css-purpose
+    - cat-css-challenge
+    - css-code-editor
+    - grumpy-cat-example
     - css-classes
-    - styling-classes
-    - syntax
-    - multiple-rules
-    - choosing-colours
-    - using-colours
+    - applying-classes
+    - font-styles
+    - block-elements
+    - header-block-css
+    - header-block-html
+    - info-section-css
+    - info-section-html
+    - gallery-section-css
+    - gallery-section-html
+    - gallery-image-css
+    - class-vs-element
+    - whole-page-styles
+    - grumpy-cat-tidy
+    - grumpy-cat-output
+
+    - hacking-challenge
+
+    - summary
 
 
-- sectionname: sitebuilder
+- sectionname: pagebuilder
   slides:
     - title-page
-    - starter-files
+
+    - starter-kit
+    - website-files
+    - index-page
+    - html-head
+    - html-body
+    - stylesheet
+    - images
+    - wireframe
+    - suggested-sections
+
+    - background
+    - background-css-tile
+    - background-css-cover
+    - background-ideas
+
+    - header
+    - header-html
+    - header-css
+    - header-ideas
+
+    - introduction
+    - intro-html
+    - intro-css
+    - intro-ideas
+
+    - footer
+    - footer-html
+    - footer-css
+    - footer-ideas
+
+    - summary
+
+- sectionname: sectionideas
+  slides:
+    - title-page
+
+    - gallery
+    - gallery-html
+    - gallery-own-images
+    - gallery-css
+    - gallery-ideas
+
+    - quote
+    - quote-html
+    - quote-css
+    - quote-ideas
+
+    - videos
+    - videos-html
+    - videos-embed-code
+    - videos-ideas
+
+    - contact
+    - contact-html
+    - contact-css
+    - contact-ideas
+
+    - summary
+
+
+- sectionname: interaction
+  slides:
+    - title-page
+
+    - adding-pages
+    
+
+    - popup-gallery
+
+
+    - summary
+
+
+
+- sectionname: publishing
+  slides:
+    - title-page
+
     - create-site
     - site-details
-    - page-background
+    - upload
+    - preview
+
+    - summary
+
+
+
+
+
+
+
+
+
 
 
 - sectionname: fancyheader

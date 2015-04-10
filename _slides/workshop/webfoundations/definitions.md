@@ -17,13 +17,38 @@ notes: |
 
 ---
 
-## The Internet
+<div class="two-table">
 
-A global system of interconnected computer networks. <br>
-The Internet is a network of computer networks.
+<div>
+<h3>The Internet</h3>
+<p>A global system of interconnected computer networks.</p>
+<p><b>The Internet is a network<br> of computer networks.</b></p>
+</div>
 
-## World Wide Web
+<div>
+<h3>World Wide Web</h3>
+<p>A system of interlinked documents, accessed via the Internet.</p>
+<p><b>The Web is a network<br> of documents and media.</b></p>
+</div>
 
-A system of interlinked documents, accessed via the Internet. <br>
-The Web is a network of documents and media.
+</div>
+
+<style>
+.two-table div {
+    box-sizing: border-box;
+    float: left;
+    width: 49%;
+    border-left: 2px dotted #001E39;
+    min-height: 200px;
+    padding: 10px;
+}
+
+.two-table div p {
+    font-size: 75%;
+}
+
+.two-table div:first-of-type {
+    border: none;
+}
+</style>
 
