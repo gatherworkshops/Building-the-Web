@@ -1,6 +1,6 @@
 ---
 title: own-images-folder
-section: curiosityquests
+section: menubar
 layout: slide
 class: default-slide
 

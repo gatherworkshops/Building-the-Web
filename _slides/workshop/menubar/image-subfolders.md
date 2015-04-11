@@ -1,6 +1,6 @@
 ---
 title: image-suubfolders
-section: curiosityquests
+section: menubar
 layout: slide
 class: default-slide
 

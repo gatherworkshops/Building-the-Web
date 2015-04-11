@@ -16,4 +16,4 @@ notes: |
 
 Before you go, click through to the last link of the day:
 
-[tiny.cc/gather](http://tiny.cc/gather)
+[Click me!](http://gathergather.co.nz/workshops/feedback/hcl-students/)

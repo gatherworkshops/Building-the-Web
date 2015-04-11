@@ -1,6 +1,6 @@
 ---
 title: navigation-html
-section: curiosityquests
+section: menubar
 layout: slide
 class: default-slide
 
@@ -21,7 +21,7 @@ notes: |
 
 Add the nav as the _last_ element inside your header.
 
-    <nav class="mainNavigation">
+    <nav class="main-menu">
 
     </nav>
 

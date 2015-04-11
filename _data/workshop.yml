@@ -109,7 +109,43 @@
 
     - summary
 
-- sectionname: sectionideas
+
+- sectionname: fancyheader
+  slides:
+    - title-page
+    - header-html
+    - header-css
+    - google-font-selection
+    - google-font-include
+    - google-font-css
+    - google-font-example
+    - title-design
+
+- sectionname: imagegallery
+  slides:
+    - title-page
+    - gallery-html
+    - gallery-css
+    - gallery-image-css
+
+
+- sectionname: youtube
+  slides:
+    - title-page
+    - videos-html
+
+- sectionname: menubar
+  slides:
+    - title-page
+    - navigation
+    - navigation-html
+    - navigation-links
+    - navigation-css
+    - nav-button-css
+    - additional-pages
+
+
+- sectionname: new-sectionideas
   slides:
     - title-page
 
@@ -137,7 +173,7 @@
     - summary
 
 
-- sectionname: interaction
+- sectionname: old-interaction
   slides:
     - title-page
 
@@ -151,7 +187,7 @@
 
 
 
-- sectionname: publishing
+- sectionname: old-publishing
   slides:
     - title-page
 
@@ -172,40 +208,20 @@
 
 
 
-- sectionname: fancyheader
-  slides:
-    - title-page
-    - header-html
-    - header-css
-    - google-font-selection
-    - google-font-include
-    - google-font-css
-    - google-font-example
-    - title-design
 
 
-- sectionname: introsection
+
+- sectionname: old-introsection
   slides:
     - title-page
     - section-intro
     - section-intro-style
 
 
-- sectionname: imagegallery
-  slides:
-    - title-page
-    - gallery-html
-    - gallery-css
-    - gallery-image-css
 
 
-- sectionname: youtube
-  slides:
-    - title-page
-    - videos-html
 
-
-- sectionname: publish
+- sectionname: old-publish
   slides:
     - title-page
 
@@ -213,19 +229,5 @@
   slides:
     - feedback
 
-
-- sectionname: curiosityquests
-  slides:
-    - title-page
-    - navigation
-    - navigation-html
-    - navigation-links
-    - navigation-css
-    - nav-button-css
-    - additional-pages
-    - own-images
-    - own-images-folder
-    - using-own-images
-    - image-subfolders
 
 

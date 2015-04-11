@@ -1,6 +1,6 @@
 ---
 title: nav-button-css
-section: curiosityquests
+section: menubar
 layout: slide
 class: default-slide
 
@@ -19,7 +19,7 @@ notes: |
 
 We can make our links look really funky by giving them the appearance of solid buttons rather than plain links.
 
-    .main-navigation a {
+    .main-menu a {
         background-color: #00FF00;
         border-color: #00DD00;
         font-weight: bold;
@@ -27,7 +27,7 @@ We can make our links look really funky by giving them the appearance of solid b
         padding: 5px 10px;
     }
 
-    .main-navigation a:hover {
+    .main-menu a:hover {
         background-color: #00DD00;
         color: #FFFFFF;
     }

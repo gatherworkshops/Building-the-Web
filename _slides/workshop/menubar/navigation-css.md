@@ -1,6 +1,6 @@
 ---
 title: navigation-css
-section: curiosityquests
+section: menubar
 layout: slide
 class: default-slide
 
@@ -17,6 +17,6 @@ notes: |
 
 Now that we've got our navigation on the screen, we can start to make it look pretty.
 
-    .main-navigation {
+    .main-menu {
         background: #FF0000;
     }

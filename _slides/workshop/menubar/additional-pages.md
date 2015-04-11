@@ -1,6 +1,6 @@
 ---
 title: additional-pages
-section: curiosityquests
+section: menubar
 layout: slide
 class: default-slide
 
@@ -21,7 +21,7 @@ To make another page, simply copy your `index.html` page and name the file somet
 
 Once you have created new pages, you can link to them in your navigation.
 
-    <nav class="mainNavigation">
+    <nav class="main-menu">
 
         <a href="index.html">Home</a>
         <a href="gallery.html">Gallery</a>

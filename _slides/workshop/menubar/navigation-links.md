@@ -1,6 +1,6 @@
 ---
 title: navigation-links
-section: curiosityquests
+section: menubar
 layout: slide
 class: default-slide
 
@@ -19,7 +19,7 @@ notes: |
 
 You've already created the `nav` element, but now add in a few links so we can test our design and layout.
 
-    <nav class="mainNavigation">
+    <nav class="main-menu">
 
         <a href="index.html">Home</a>
         <a href="#">Gallery</a>
