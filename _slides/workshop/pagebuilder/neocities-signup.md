@@ -1,6 +1,6 @@
 ---
-title: create-site
-section: publishing
+title: neocities-signup
+section: pagebuilder
 layout: slide
 class: centered-slide
 
@@ -22,6 +22,6 @@ notes: |
 
 ## Create a Site
 
-![Neocities Home Page](/Building-the-Web/slides/workshop/images/neocities-home.png)
+![Neocities Home Page](/Building-the-Web/slides/workshop/pagebuilder/images/neocities-signup.png)
 
-Visit [Neocities.org](http://neocities.org) and type in the name of your website.
+Create an account at [Neocities.org](http://neocities.org).

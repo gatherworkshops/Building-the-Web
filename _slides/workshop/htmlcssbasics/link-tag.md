@@ -19,4 +19,8 @@ Turn it into a link using `a` tags, like this:
 
     <a>Wikipedia</a>
 
+Then add the `href` attribute to the opening tag.
+
+    <a href="#">Wikipedia</a>
+
 This turns the link blue, but we need another step to make it clickable.

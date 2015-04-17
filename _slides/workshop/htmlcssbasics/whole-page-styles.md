@@ -11,7 +11,7 @@ notes: |
 
 ## Whole Page Styles
 
-When we have styles we want to apply to the whole page, we can use 
+When we have styles we want to apply to the whole page, we can target the `body`, because all other tags are between the `body` tags.
 
 **At the top of your CSS, on a new line:**
 

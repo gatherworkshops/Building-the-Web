@@ -1,5 +1,5 @@
 ---
-title: suggested-sections
+title: content
 section: pagebuilder
 layout: slide
 class: centered-slide
@@ -9,5 +9,6 @@ notes: |
 
 ---
 
+## Page Content Area
 
-## Suggested Sections
+_Adding the main content to your page_

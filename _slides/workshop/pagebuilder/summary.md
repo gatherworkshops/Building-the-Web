@@ -12,6 +12,7 @@ notes: |
 
 ## Summary
 
-Using HTML and CSS, you've now made a whole web page!
+Using HTML and CSS, you've now made<br>
+a whole web page!
 
-Add a few more sections to your page to make it look how you want.
+Next we will add some more pages to our site.

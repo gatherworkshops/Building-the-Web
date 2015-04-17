@@ -2,7 +2,7 @@
 title: background-css-tile
 section: pagebuilder
 layout: slide
-class: centered-slide
+class: default-slide
 
 notes: |
   :)
@@ -12,11 +12,12 @@ notes: |
 
 ## Tiled Background
 
-You can make a repeating background using code like this:
+Here's some CSS code for a repeating background.
+
+**In your CSS:**
 
     html {
-        background-color: black;
-        background-image: url('http://tiny.cc/grassy-field');
+        background-image: url('images/background.jpg');
     }
 
 Make sure to choose an image which tiles nicely!

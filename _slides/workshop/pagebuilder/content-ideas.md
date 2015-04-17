@@ -1,5 +1,5 @@
 ---
-title: intro-ideas
+title: content-ideas
 section: pagebuilder
 layout: slide
 class: default-slide
@@ -9,4 +9,4 @@ notes: |
 
 ---
 
-## Intro Section Ideas
+## Content Section Ideas

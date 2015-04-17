@@ -1,6 +1,6 @@
 ---
 title: site-details
-section: publishing
+section: pagebuilder
 layout: slide
 class: default-slide
 

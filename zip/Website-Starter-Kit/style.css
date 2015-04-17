@@ -1,0 +1,45 @@
+/*
+==========================
+page header design
+==========================
+*/
+
+.page-header {
+	background: red;
+}
+
+
+
+
+/* 
+============================
+intro section design
+============================
+*/
+.intro-section {
+ 	background: green;
+}
+
+
+
+
+/* 
+===============================
+pictures section design
+===============================
+*/
+.pictures-section {
+	background: blue;
+}
+
+
+
+
+/* 
+===============================
+video section design
+===============================
+*/
+.video-section {
+	background: yellow;
+}

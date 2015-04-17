@@ -5,19 +5,24 @@ layout: slide
 class: default-slide
 
 notes: |
-  We already have an 'html' tag on the page, so we can style it from the CSS using the keyword 'html'.
+  To make a full screen background, we need to add two extra lines.
 
-  We use this one for adding a background as it is the outermost element - it contains everything else on the page so we know the bg will go behind everything else.
+  We still use `background-image` in the same way, but we also add `background-size` and `background-attachment`.
+
+  `background-size: cover;` tells the CSS to `cover` the whole html elements with the picture. It stretches the image to fit.
+
+  `background-attachment: fixed;` tells the CSS to make page content move over top of the background, and keep the background `fixed` in one place. 
 
 ---
 
 ## Full-Screen Background
 
-You can make a full-screen background using code like this:
+Here's some code for a full-screen background.
+
+**In your CSS:**
 
     html {
-        background-color: black;
-        background-image: url('http://tiny.cc/grassy-field');
+        background-image: url('images/background.jpg');
         background-size: cover;
         background-attachment: fixed;
     }

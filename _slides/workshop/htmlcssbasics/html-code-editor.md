@@ -13,7 +13,8 @@ notes: |
 
 ## CodePen Editor
 
-CodePen shows us our code on the left, and the output on the right:
+CodePen shows us our code on the left,<br>
+and the output on the right:
 
 ![Screenshot of CodePen UI](/Building-the-Web/slides/workshop/htmlcssbasics/images/codepen-html.png)
 

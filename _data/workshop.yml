@@ -27,9 +27,6 @@
     - charging-for-websites
     - web-censorship
     - southern-cross-cable
-    - net-neutrality
-    - open-web-values
-    - the-open-web
 
     - summary
 
@@ -56,12 +53,12 @@
     - applying-classes
     - font-styles
     - block-elements
-    - header-block-css
     - header-block-html
-    - info-section-css
+    - header-block-css
     - info-section-html
-    - gallery-section-css
+    - info-section-css
     - gallery-section-html
+    - gallery-section-css
     - gallery-image-css
     - class-vs-element
     - whole-page-styles
@@ -79,28 +76,41 @@
 
     - starter-kit
     - website-files
+
+    - neocities
+    - neocities-signup
+    - neocities-upload
+    - neocities-tabs
+
     - index-page
+    - stylesheet
+    - images-folder
+
     - html-head
     - html-body
-    - stylesheet
-    - images
-    - wireframe
-    - suggested-sections
 
     - background
     - background-css-tile
     - background-css-cover
     - background-ideas
 
+    - layout
+    - layout-header-html
+    - layout-header-css
+    - layout-content-html
+    - layout-content-css
+    - layout-content-html
+    - layout-content-css
+
     - header
     - header-html
     - header-css
     - x-header-ideas
 
-    - introduction
-    - intro-html
-    - intro-css
-    - x-intro-ideas
+    - content
+    - content-html
+    - content-css
+    - x-content-ideas
 
     - footer
     - footer-html
@@ -108,6 +118,41 @@
     - x-footer-ideas
 
     - summary
+
+
+- sectionname: pages
+  slides:
+    - title-page
+
+    - menubar
+    - menubar-html
+    - menubar-css
+    - menubar-ideas
+
+    - gallery
+    - gallery-html
+    - gallery-own-images
+    - gallery-css
+    - gallery-ideas
+
+    - videos
+    - videos-html
+    - videos-embed-code
+    - videos-ideas
+
+    - quote
+    - quote-html
+    - quote-css
+    - quote-ideas
+
+    - contact
+    - contact-html
+    - contact-css
+    - contact-ideas
+
+    - summary
+
+
 
 
 - sectionname: fancyheader
@@ -143,34 +188,6 @@
     - navigation-css
     - nav-button-css
     - additional-pages
-
-
-- sectionname: new-sectionideas
-  slides:
-    - title-page
-
-    - gallery
-    - gallery-html
-    - gallery-own-images
-    - gallery-css
-    - gallery-ideas
-
-    - quote
-    - quote-html
-    - quote-css
-    - quote-ideas
-
-    - videos
-    - videos-html
-    - videos-embed-code
-    - videos-ideas
-
-    - contact
-    - contact-html
-    - contact-css
-    - contact-ideas
-
-    - summary
 
 
 - sectionname: old-interaction

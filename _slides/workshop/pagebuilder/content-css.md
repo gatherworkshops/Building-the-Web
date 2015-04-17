@@ -1,5 +1,5 @@
 ---
-title: intro-css
+title: content-css
 section: pagebuilder
 layout: slide
 class: default-slide
@@ -9,13 +9,13 @@ notes: |
 
 ---
 
-## Intro Section Style
+## Content Section Style
 
 So our text is on the page but it's just floating.
 
 Let's give the section some design, using its name:
 
-    .introduction {
+    .page-content {
         background-color: #222222;
         padding: 30px;
         width: 700px;

@@ -17,3 +17,19 @@ notes: |
 ## Index Page
 
 _This is your home page_
+
+    <!DOCTYPE html>
+    <html>
+
+        <!-- head only used by the browser -->
+        <head>
+            <title>My Page Title</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+
+        <!-- body contains the visible page content -->
+        <body>
+            <!-- My HTML Code Goes Here-->
+        </body>
+    
+    </html>

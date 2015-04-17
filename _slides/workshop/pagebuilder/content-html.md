@@ -1,5 +1,5 @@
 ---
-title: intro-html
+title: content-html
 section: pagebuilder
 layout: slide
 class: default-slide
@@ -15,13 +15,13 @@ notes: |
 
 ---
 
-## Introduction Section
+## Content Section
 
 Let's create a section to greet visitors.
 
 The section will tell them a bit about the topic we've chosen:
 
-    <section class="introduction">
+    <section class="page-content">
 
         <h2>Greetings, rabbit fans</h2>
 

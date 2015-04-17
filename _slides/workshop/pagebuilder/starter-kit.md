@@ -23,3 +23,5 @@ notes: |
 ## Website Starter Kit
 
 </a>
+
+_Download and extract the Starter Kit zip file_

@@ -2,7 +2,7 @@
 title: html-body
 section: pagebuilder
 layout: slide
-class: centered-slide
+class: default-slide
 
 notes: |
   :)
@@ -16,3 +16,6 @@ notes: |
     <body>
         <!-- My HTML Code Goes Here-->
     </body>
+
+All of the **HTML** code we add today will be<br>
+between the `<body>` and `</body>` tags.
