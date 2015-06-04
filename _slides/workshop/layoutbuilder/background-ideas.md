@@ -5,7 +5,13 @@ layout: slide
 class: centered-slide
 
 notes: |
-  :)
+  There are many ways to use a background to enhance your site.
+
+  You might choose to use a design which is plain or busy, dull or colourful, animated or static.
+
+  Have a think about the theme of your site and what sort of background would suit best.
+
+  The links on this slide have a variety of different image styles you could use.
 
 ---
 
