@@ -2,7 +2,7 @@
 title: layout-content-html
 section: layoutbuilder
 layout: slide
-class: default-slide
+class: centered-slide
 
 notes: |
   A section is just another layout rectangle, like header.
@@ -17,9 +17,7 @@ notes: |
 
 ## Content Section
 
-Let's create a section to greet visitors.
-
-The section will tell them a bit about the topic we've chosen:
+Add a content section to your index page:
 
     <section class="page-content">
 
@@ -28,7 +26,10 @@ The section will tell them a bit about the topic we've chosen:
         <p>This is a site all about my favourite animal, 
         the rabbit.</p>
 
-        <p>You will find some really nice pictures of rabbits, 
-        and a few of my favourite videos too.</p>
+        <p>You will find some really nice pictures of 
+        rabbits, and my favourite videos too.</p>
 
     </section>
+
+_The `page-content` section will be on every page,_<br>
+_but we will change the content inside it._
