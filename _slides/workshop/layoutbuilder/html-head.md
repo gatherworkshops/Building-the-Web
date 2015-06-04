@@ -2,7 +2,7 @@
 title: html-head
 section: layoutbuilder
 layout: slide
-class: default-slide
+class: centered-slide
 
 notes: |
 
