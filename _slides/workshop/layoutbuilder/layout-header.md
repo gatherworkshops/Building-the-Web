@@ -5,7 +5,7 @@ layout: slide
 class: centered-slide
 
 notes: |
-  Our first page element will be a header.
+  Our first layout element will be a header.
 
   The header goes at the top of the page and generally contains the name of the website.
 
