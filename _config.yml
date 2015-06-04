@@ -1,7 +1,0 @@
-name: Building the Web
-baseurl: "/Building-the-Web"
-markdown: redcarpet
-highlighter: pygments
-collections:
-  slides:
-    output: false
