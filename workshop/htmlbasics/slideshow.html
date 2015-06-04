@@ -1,0 +1,15 @@
+---
+layout: slideshow
+title: Presentation
+
+sectionname: htmlbasics
+---
+	
+	{% assign slideset = site.slides %}
+	{% for section in site.data.workshop %}
+
+		{% if section.sectionname == page.sectionname %}
+			{% include slideshowsection.html %}
+		{% endif %}
+
+	{% endfor %}

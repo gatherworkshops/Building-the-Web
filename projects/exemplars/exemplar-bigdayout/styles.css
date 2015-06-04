@@ -1,0 +1,102 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 12px;
+	background: purple url("images/background.jpg");
+	background-size: cover;
+}
+
+p {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.centered {
+	width: 990px;
+	margin: 0 auto;
+	position: relative;
+}
+
+/* Page Header */
+.page-header{
+	font-size: 20px;
+	padding: 30px;
+	position: relative;
+}
+
+h1 {
+	color: #FFFFFF;
+	text-shadow: 2px 2px 2px #000000;
+	font-family: 'Oleo Script Swash Caps';
+	font-size: 40px;
+}
+
+.main-navigation {
+	position: absolute;
+	right: 0;
+	top: 30px;
+	text-shadow: 2px 2px 2px #000000;
+}
+
+.main-navigation a {
+	color: #FFFFFF;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: "Trebuchet MS";
+}
+
+.main-navigation a.selected {
+	color: red;
+	border-bottom: 3px solid red;
+}
+
+.main-navigation a:hover {
+	color: blue;
+	border-bottom: 3px solid blue;
+}
+
+/* Page Content */
+.page-content {
+	/* nothing yet */
+}
+
+.page-content .centered{
+	background: #FFFFFF;
+	padding: 30px;
+	border-radius: 15px;
+	overflow: hidden;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.left-column {
+	padding-right: 280px;
+}
+
+.right-column {
+	position: absolute;
+	top: 20px;
+	right: 0;
+	bottom: 20px;
+	border-left: 1px solid gray;
+	background: #FFFFFF;
+	width: 250px;
+	padding-left: 20px;
+}
+
+/* Page Footer */
+.page-footer {
+	background: rgba(0, 0, 0, 0.5);
+	padding: 30px;
+	color: #FFFFFF;
+	position: fixed;
+	bottom: 0;
+}
+
+
+

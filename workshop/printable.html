@@ -1,0 +1,26 @@
+---
+layout: printableslideshow
+title: Presentation
+notesByDefault: true
+---
+ 
+<style>
+    @media print {
+      h2 { 
+        page-break-before: always;
+      }
+      h3, h4 {
+        page-break-after: avoid;
+      }
+      pre, blockquote {
+        page-break-inside: avoid;
+      }
+    }
+</style>
+
+    {% assign slideset = site.slides %}
+    {% for section in site.data.workshop %}
+        
+        {% include slideshowsection.html %}
+
+    {% endfor %}

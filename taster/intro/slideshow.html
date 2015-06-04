@@ -1,0 +1,15 @@
+---
+layout: slideshow
+title: Presentation
+
+sectionname: intro
+---
+	
+	{% assign slideset = site.slides %}
+	{% for section in site.data.taster %}
+
+		{% if section.sectionname == page.sectionname %}
+			{% include slideshowsection.html %}
+		{% endif %}
+
+	{% endfor %}

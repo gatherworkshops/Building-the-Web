@@ -1,0 +1,15 @@
+name: Building the Web
+baseurl: "/Building-the-Web"
+markdown: redcarpet
+highlighter: pygments
+exclude: ["node_modules", "Gemfile", "Gruntfile.js", "package.json", "README.md"]
+include: ["slides"]
+
+sass:
+    sass_dir: _sass
+    
+collections:
+  assets:
+    output: true
+  slides:
+    output: false
