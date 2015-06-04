@@ -90,10 +90,9 @@
     - cloudcannon-github
 
     - template
-    - template-index
-    - template-styles
-    - template-images
+    - template-files
 
+    - html-index
     - html-head
     - html-body
 
