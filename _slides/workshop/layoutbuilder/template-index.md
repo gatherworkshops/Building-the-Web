@@ -5,6 +5,9 @@ layout: slide
 class: centered-slide
 
 notes: |
+
+  Click on your `index.html` and let's take a quick look at the code.
+
   The `index` page is where you put all of the HTML code that makes up what your website's home page should look like.
 
   Your home page needs to be called `index.html` so that your web browser can load it automatically.
