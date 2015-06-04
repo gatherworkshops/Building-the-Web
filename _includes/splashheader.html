@@ -1,0 +1,15 @@
+{% if page.tagline != nil %}
+<div class="splash-header">
+
+	<h1>{{ page.heading }}</h1>
+	<p>{{ page.tagline }}</p>
+
+	{% if page.title != "Home" %}
+	<br>
+	<a class="btn btn-lg btn-default" href="slideshow.html" target="_blank">
+		Launch Full-Screen Slideshow
+	</a>
+	{% endif %}
+	
+</div>
+{% endif %}

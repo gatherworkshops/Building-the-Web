@@ -1,0 +1,65 @@
+- sectionname: intro
+  slides:
+    - title-page
+    - why-code
+
+
+- sectionname: pagestructure
+  slides:
+    - title-page
+    - languages
+    - html
+    - css
+    - javascript
+    - summary
+    - centered-slide
+
+
+- sectionname: neocities
+  slides:
+    - title-page
+    - about
+    - create-site
+    - site-details
+    - dashboard
+
+
+- sectionname: template
+  slides:
+    - title-page
+    - html
+    - css
+    - upload
+    - preview
+
+
+- sectionname: html
+  slides:
+    - title-page
+    - headings
+    - subheadings
+    - paragraphs
+    - link-tag
+    - link-attribute
+    - image-tags
+    - image-source
+
+
+- sectionname: css
+  slides:
+    - title-page
+    - background
+    - paragraphs
+    - centered-paragraphs
+    - defining-classes
+    - applying-classes
+
+
+- sectionname: youtube
+  slides:
+    - title-page
+    - videos-html
+    - centered-video
+    - summary
+
+

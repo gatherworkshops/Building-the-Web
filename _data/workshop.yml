@@ -1,0 +1,172 @@
+- sectionname: welcome
+  slides:
+    - title-page
+    - mentors
+    - introductions
+    - schedule
+
+- sectionname: webfoundations
+  slides:
+    - title-page
+
+    - what-is-the-web
+    - internet-brainstorm
+    - internet-vs-web
+    - definitions
+    - who-owns-the-web
+    - claiming-ownership
+
+    - languages
+    - html
+    - css
+    - javascript
+    - website-files
+
+    - loading-a-webpage
+    - telephone-comparison
+    - charging-for-websites
+    - web-censorship
+    - southern-cross-cable
+
+    - summary
+
+- sectionname: htmlbasics
+  slides:
+    - title-page
+
+    - alpaca-html-challenge
+    - html-code-editor
+    - alpaca-example
+    - headings
+    - subheadings
+    - paragraphs
+    - link-tag
+    - link-attribute
+    - image-tags
+    - image-source
+    - alpaca-output
+
+    - summary
+
+- sectionname: cssbasics
+  slides:
+    - title-page
+
+    - cat-css-challenge
+    - css-code-editor
+    - grumpy-cat-example
+    - css-classes
+    - applying-classes
+    - font-styles
+    - block-elements
+    - header-block-html
+    - header-block-css
+    - info-section-html
+    - info-section-css
+    - gallery-section-html
+    - gallery-section-css
+    - gallery-image-css
+    - class-vs-element
+    - whole-page-styles
+    - grumpy-cat-tidy
+    - grumpy-cat-output
+
+    - hacking-challenge
+
+    - summary
+
+- sectionname: layoutbuilder
+  slides:
+    - title-page
+
+    - layout-design
+    - layout-purpose
+
+    - github
+    - github-fork
+
+    - cloudcannon
+    - cloudcannon-create
+    - cloudcannon-github
+
+    - template
+    - template-index
+    - template-styles
+    - template-images
+
+    - html-head
+    - html-body
+
+    - background
+    - background-css-tile
+    - background-css-cover
+    - background-ideas
+
+    - layout-header
+    - layout-header-html
+    - layout-header-css
+    - layout-header-ideas
+
+    - layout-content
+    - layout-content-html
+    - layout-content-css
+    - layout-content-ideas
+
+    - summary
+
+
+- sectionname: menubar
+  slides:
+    - title-page
+    - navigation
+    - navigation-html
+    - navigation-links
+    - navigation-css
+    - nav-button-css
+    - additional-pages
+
+
+- sectionname: gallery
+  slides:
+    - title-page
+    - gallery-html
+    - gallery-css
+    - gallery-image-css
+    - summary
+
+
+- sectionname: youtube
+  slides:
+    - title-page
+    - videos-html
+
+
+
+
+- sectionname: popupgallery
+  slides:
+    - title-page
+    - summary
+
+
+
+- sectionname: x-fancyheader
+  slides:
+    - title-page
+    - header-html
+    - header-css
+    - google-font-selection
+    - google-font-include
+    - google-font-css
+    - google-font-example
+    - title-design
+    
+
+
+
+
+
+
+
+
+
