@@ -20,4 +20,4 @@ notes: |
 
 <img src="/Building-the-Web/slides/workshop/layoutbuilder/images/template.png" width="100%">
 
-_You should have images, index and style_
+_You should see images, index and style in your project folder_
