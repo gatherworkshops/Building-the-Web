@@ -1,5 +1,5 @@
 ---
-title: header-ideas
+title: layout-header-ideas
 section: layoutbuilder
 layout: slide
 class: default-slide
