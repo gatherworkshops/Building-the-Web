@@ -26,4 +26,4 @@ notes: |
         <link rel="stylesheet" href="style.css">
     </head>
 
-_The browser tab title and CSS link go between the head tags_
+_The head contains a browser tab **title** and a CSS file **link**_
