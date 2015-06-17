@@ -18,17 +18,8 @@ notes: |
 
 ## Background Ideas
 
-**Take a few minutes to make your background**<br>
-**look how you want it.**
+<iframe height='450' scrolling='no' src='//codepen.io/gatherworkshops/embed/rVzZRp/?height=450&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/gatherworkshops/pen/rVzZRp/'>rVzZRp</a> by Gather Workshops (<a href='http://codepen.io/gatherworkshops'>@gatherworkshops</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
 
-Animated Gifs can be used as backgrounds<br>
-[Cinemagraphs look cool full-screen](http://giphy.com/search/cinemagraph)
-
-Plain patterns make content stand out more<br>
-[Find Free Patterns here](http://subtlepatterns.com/)
-
-Colourful patterns brighten up your website<br>
-[More Free Patterns here](http://www.dinpattern.com/category/patterns/)
-
-Large photos look nice in full-screen<br>
-[Search Flickr's Creative Commons photos](https://www.flickr.com/search/?sort=relevance&advanced=1&height=1024&width=1024&dimension_search_mode=min&text=nature&license=2%2C3%2C4%2C5%2C6%2C9)
+_Take a few minutes to make your background_<br>
+_look how you want it._
