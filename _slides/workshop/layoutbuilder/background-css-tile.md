@@ -2,7 +2,7 @@
 title: background-css-tile
 section: layoutbuilder
 layout: slide
-class: default-slide
+class: centered-slide
 
 notes: |
   To make a tiled background, we need some very basic CSS.
@@ -16,9 +16,9 @@ notes: |
 
 ## Tiled Background
 
-Here's some CSS code for a repeating background.
+If you want a repeating background, use this code.
 
-**In your CSS:**
+Add to your `style.css`:
 
     html {
         background-image: url('images/ravens-tile.gif');
