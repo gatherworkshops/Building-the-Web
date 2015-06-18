@@ -12,7 +12,7 @@ notes: |
 
   Using a header allows us to group together all the elements which are part of the header, for easy styling using CSS.
 
-  Add a header to the `body` of your `index.html` page.
+  Add the header code to the `body` of your page.
 
   You should change the heading text to suit your site!
 
