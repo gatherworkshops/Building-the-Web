@@ -2,7 +2,7 @@
 title: background-css-cover
 section: layoutbuilder
 layout: slide
-class: default-slide
+class: centered-slide
 
 notes: |
   To make a full screen background, we need to add two extra lines.
@@ -17,12 +17,12 @@ notes: |
 
 ## Full-Screen Background
 
-Here's some code for a full-screen background.
+If you'd like a full-screen background, use this code.
 
-**In your CSS:**
+Add to your `style.css`:
 
     html {
-        background-image: url('images/tree-stretch.jpg');
+        background-image: url('images/tree-cover.jpg');
         background-size: cover;
         background-attachment: fixed;
     }
