@@ -17,19 +17,18 @@ notes: |
 
 ## Content Section
 
-Add a content section to your index page:
+Add to your `index.html`, on a new line after your closing `</header>` tag:
 
     <section class="page-content">
 
-        <h2>Greetings, rabbit fans</h2>
+        <h2>Hello there, amazing person!</h2>
 
-        <p>This is a site all about my favourite animal, 
-        the rabbit.</p>
-
-        <p>You will find some really nice pictures of 
-        rabbits, and my favourite videos too.</p>
+        <p>
+        This is a site all about my favourite stuff, 
+        thanks so much for visiting.
+        </p>
 
     </section>
 
-_The `page-content` section will be on every page,_<br>
-_but we will change the content inside it._
+We will use this `page-content` section on every page,<br>
+but we will change the content inside it for each page.
