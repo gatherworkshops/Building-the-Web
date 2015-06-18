@@ -77,22 +77,29 @@ $titleTextShadow: 2px 2px 1px rgb(134,32,26);
 	}
 
 	// code block displayed on slides
-	pre {
-		margin: 0 0;
-		margin-bottom: 1em;
-		font-size: 100%;
-		width: 100%;
+	.highlight {
+		  border-radius: 0 0 5px 5px;
 
-		code {
-			padding: 10px;
-			font-size: inherit;
-			max-height: none;
+		  pre {
+			margin: 0 0;
+			margin-bottom: 1em;
+			font-size: 100%;
+			width: 100%;
+			box-shadow: none;
+
+			code {
+				padding: 10px;
+				font-size: inherit;
+				max-height: none;
+				
+			}
 		}
 	}
 
+	
+
 	// inline code within paragraphs
 	code {
-		/*font-size: 120%;*/
 		background-color: rgba(255,255,255,0.6);
 		padding: 6px;
 	}
@@ -114,6 +121,22 @@ $titleTextShadow: 2px 2px 1px rgb(134,32,26);
 			padding: 0px 8px;
 			border-top-radius: 5px;
 		}
+	}
+
+	.codeblock-title {
+		  text-align: left;
+		  background: #fff;
+		  margin-bottom: 0 !important;
+		  padding: 10px;
+		  font-size: 70%;
+		  border-radius: 5px 5px 0 0;
+		  z-index: 50;
+		  border-bottom: 1px solid rgba(0,0,0,0.1);
+
+		  code {
+		  	font-weight: bold;
+		  	font-size: 120%;
+		  }
 	}
 
 	.slides {
