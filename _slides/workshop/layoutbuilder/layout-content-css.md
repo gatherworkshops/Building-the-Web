@@ -2,18 +2,23 @@
 title: layout-content-css
 section: layoutbuilder
 layout: slide
-class: default-slide
+class: centered-slide
 
 notes: |
-  The blank line is just to split up the layout stuff from the text design stuff.
+  
+  Our content is on the page, but it is just kind of... floating.
+
+  By adding some CSS, we can make our content section visible and start working on how we'd like it to look.
+
+  In our HTML, we gave our section the class `page-content`, so we can use that name to apply styling from our CSS code.
+
+  The blank line is just to split up the layout stuff from the text design stuff, it doesn't affect the code.
 
 ---
 
-## Content Section Style
+## Content Section Design
 
-So our text is on the page but it's just floating.
-
-Let's give the section some design, using its name:
+Add to your `style.css`:
 
     .page-content {
         background-color: #222222;
@@ -26,3 +31,6 @@ Let's give the section some design, using its name:
         font-size: 14px;
         line-height: 130%;
     }
+
+This code will give you a starting point to begin<br>
+designing your content section.
