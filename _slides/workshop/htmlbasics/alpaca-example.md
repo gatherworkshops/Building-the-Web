@@ -17,7 +17,7 @@ notes: |
 
 ## Alpaca Text Example
 
-We will use code to make our output look like this:
+<iframe height='450' scrolling='no' src='//codepen.io/gatherworkshops/embed/gbyXgo/?height=450&theme-id=16068&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/gatherworkshops/pen/gbyXgo/'>Alpacas: Example</a> by Gather Workshops (<a href='http://codepen.io/gatherworkshops'>@gatherworkshops</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
 
-<span class="codepen-embed title">Alpaca Example</span>
-<iframe class="codepen-embed" height="500" scrolling="yes" frameborder="0" src='http://s.codepen.io/gatherworkshops/fullembedgrid/gbyXgo'></iframe>
+We will use code to make our output look like this
