@@ -46,8 +46,6 @@
     - image-source
     - alpaca-output
 
-    - summary
-
 - sectionname: cssbasics
   slides:
     - title-page
@@ -82,24 +80,22 @@
     - layout-design
     - layout-purpose
 
-    - github
-    - github-fork
-
     - cloudcannon
     - cloudcannon-create
-    - cloudcannon-github
 
     - template
     - template-files
 
+    - html-new
     - html-index
     - html-head
     - html-body
 
-    - background
-    - background-css-tile
-    - background-css-cover
-    - background-ideas
+    - css-new
+    - css-background
+    - css-background-tile
+    - css-background-cover
+    - css-background-ideas
 
     - layout-header
     - layout-header-html
