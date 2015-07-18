@@ -2,7 +2,7 @@
 title: navigation-html
 section: menubar
 layout: slide
-class: default-slide
+class: centered-slide
 
 notes: |
   Hey, a new type of HTML element! 
@@ -13,16 +13,16 @@ notes: |
 
   If you preview your navigation right now, it won't look like anything - it doesn't have any styles yet! 
 
-  We did set up the class _mainNavigation_ though, so we'll be able to style this nav from our CSS.
+  We did set up the class `main-menu` though, so we'll be able to style this nav from our CSS.
 
 ---
 
 ## Navigation HTML
 
-Add the nav as the _last_ element inside your header.
+Add the `nav` on the line after your closing `</header>` tag:
 
     <nav class="main-menu">
 
     </nav>
 
-Make sure you've got it in your `header` not your `head` - it should be on the line _after_ your `<h1>Page Title</h1>` heading.
+_Create the layout container for your menu bar_

@@ -2,7 +2,7 @@
 title: additional-pages
 section: menubar
 layout: slide
-class: default-slide
+class: centered-slide
 
 notes: |
   Creating new pages is as simple as copying an existing one and giving it a new file name.
@@ -24,9 +24,9 @@ Once you have created new pages, you can link to them in your navigation.
     <nav class="main-menu">
 
         <a href="index.html">Home</a>
-        <a href="gallery.html">Gallery</a>
-        <a href="contact.html">Contact</a>
+        <a href="pictures.html">Pictures</a>
+        <a href="videos.html">Videos</a>
 
     </nav>
 
-Notice the `href="#"` has been changed to actual page links. You'll need to do this in every HTML file!
+_Duplicate index.html to make pictures and videos pages_

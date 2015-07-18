@@ -2,10 +2,10 @@
 title: navigation-css
 section: menubar
 layout: slide
-class: default-slide
+class: centered-slide
 
 notes: |
-  Our nav has the class `mainNavigation` so we can use this in our CSS to add some design to our nav.
+  Our nav has the class `main-menu` so we can use this in our CSS to add some design to our nav.
 
   Keep in mind that we are currently just styling the `nav` element, which is a container for all our navigation links.
 
@@ -15,8 +15,10 @@ notes: |
 
 ## Navigation Styles
 
-Now that we've got our navigation on the screen, we can start to make it look pretty.
+In your CSS:
 
     .main-menu {
         background: #FF0000;
     }
+
+_Add a background to your nav, so you can see it_

@@ -2,22 +2,21 @@
 title: nav-button-css
 section: menubar
 layout: slide
-class: default-slide
+class: centered-slide
 
 notes: |
-  The CSS rule we created in the first block of code says "apply these styles to all `a` elements inside a `.main-navigation` element."
+  
+  The first CSS rule says how we want the menu buttons to look.
 
-  By doing this, we are targeting only the links inside the nav, rather than targeting all the links on the page.
+  The second CSS rules says how we want the buttons to look when we move our mouse pointer over them, when we "hover".
 
-  Links also have some special extra options, which apply to their different states. These are called "pseudo-elements" and their names are `link`, `visited`, `hover`, and `active`.
-
-  We've only added styles for the `hover` state, but you can have a play with the others too.
+  You can change these values to make your buttons look however you like.
 
 ---
 
 ## Navigation Button Styles
 
-We can make our links look really funky by giving them the appearance of solid buttons rather than plain links.
+In your CSS:
 
     .main-menu a {
         background-color: #00FF00;
@@ -31,3 +30,6 @@ We can make our links look really funky by giving them the appearance of solid b
         background-color: #00DD00;
         color: #FFFFFF;
     }
+
+
+_Style your links to look like buttons_
