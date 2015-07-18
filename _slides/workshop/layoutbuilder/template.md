@@ -6,13 +6,11 @@ class: centered-slide
 
 notes: |
   
-  You should now be able to see two files and one folder in your Cloud Cannon dashboard.
+  Congratulations, you now have a brand new empty website! 
 
-  Check that you can see `index.html`, `style.css` and the `images` folder.
+  We need to add two files and one folder to our Cloud Cannon dashboard.
 
-  If you can't see these files, go back to the start of this chapter and follow the steps again.
-
-  Next we will have a quick tour of these starter files.
+  Once we are done, we will have `index.html`, `style.css` and an `images` folder.
 
 ---
 
@@ -20,4 +18,4 @@ notes: |
 
 <img src="/Building-the-Web/slides/workshop/layoutbuilder/images/template.png" width="100%">
 
-_You should see images, index and style in your project folder_
+_We will create images, index and style in our project folder_

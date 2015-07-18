@@ -6,11 +6,9 @@ class: centered-slide
 
 notes: |
   
-  GitHub is made for storing and backing up our code, but it isn't designed for editing code or previewing your site.
+  Cloud Cannon is an online website editor. We will use it to edit our code and also see a live preview of what it looks like.
 
-  For that part, we will use Cloud Cannon.
-
-  Cloud Cannon will connect with GitHub, allowing us to edit our code and also see a live preview of what it looks like.
+  It's a free service and you can even log in from home.
 
 ---
 

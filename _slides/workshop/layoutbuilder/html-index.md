@@ -1,23 +1,25 @@
 ---
-title: template-index
+title: html-index
 section: layoutbuilder
 layout: slide
 class: centered-slide
 
 notes: |
 
-  Click on your `index.html` and let's take a quick look at the code.
+  Click on your `index.html` to open it up.
 
-  The `index` page is where you put all of the HTML code that makes up what your website's home page should look like.
+  Click on the "Code Editor" button at the top right of CloudCannon. This opens the code editor screen for your page.
 
-  Your home page needs to be called `index.html` so that your web browser can load it automatically.
+  Copy the code from this slide into your code editor and save.
 
-  When you add more pages, you can call the extra ones whatever you like, but your home page should always be called `index.html`!
+  The first line contains the `doctype` - this tells your web browser that the file is an web page using the latest version of HTML.
+
+  The opening and closing `html` tags wrap around all of the html code in the page.
 
 ---
 
 
-## Index Page
+## Index Page Starter Code
 
     <!DOCTYPE html>
     <html>
@@ -35,4 +37,4 @@ notes: |
     
     </html>
 
-_This is the HTML code for your home page_
+_Copy this HTML code into your index.html_
