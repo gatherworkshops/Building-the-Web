@@ -33,34 +33,3 @@
         overflow: visible;
     }
 }
-
-.recipe .page-content>section {
-
-	padding-top: 20px;
-	padding-bottom: 40px;
-
-	&:nth-of-type(2n) {
-		background-color: #fcfcf1;
-		border: 1px solid #FFF;
-		border-radius: 5px;
-	}
-
-	h2 {
-		margin-top: 20px;
-	}
-
-	.source {
-		span {
-			font-size: 80%;
-			display: block;
-		}
-		a {
-			font-style: italic;
-		}
-	}
-
-	article {
-		padding-bottom: 30px;
-	}
-
-}
