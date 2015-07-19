@@ -19,10 +19,10 @@ notes: |
 
 ## Navigation Links
 
-Between your `nav` tags:
+Add your page links, between the `nav` tags:
 
-        <a href="index.html">Home</a>
-        <a href="pictures.html">Pictures</a>
-        <a href="videos.html">Videos</a>
+    <a href="index.html">Home</a>
+    <a href="pictures.html">Pictures</a>
+    <a href="videos.html">Videos</a>
 
 _Add some links to your menu bar_

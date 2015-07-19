@@ -16,7 +16,7 @@ notes: |
 
 ## Navigation Button Styles
 
-In your CSS:
+In your CSS, create two new rules:
 
     .main-menu a {
         background-color: #00FF00;

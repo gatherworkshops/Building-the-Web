@@ -15,7 +15,7 @@ notes: |
 
 ## Navigation Styles
 
-In your CSS:
+In your CSS, create a new rule:
 
     .main-menu {
         background: #FF0000;
