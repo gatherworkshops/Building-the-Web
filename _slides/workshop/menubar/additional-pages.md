@@ -17,16 +17,6 @@ notes: |
 
 ## Adding Pages
 
-To make another page, simply copy your `index.html` page and name the file something else.
-
-Once you have created new pages, you can link to them in your navigation.
-
-    <nav class="main-menu">
-
-        <a href="index.html">Home</a>
-        <a href="pictures.html">Pictures</a>
-        <a href="videos.html">Videos</a>
-
-    </nav>
+<img src="/Building-the-Web/slides/workshop/menubar/images/cloudcannon-html-duplicate.gif" width="100%">
 
 _Duplicate index.html to make pictures and videos pages_
