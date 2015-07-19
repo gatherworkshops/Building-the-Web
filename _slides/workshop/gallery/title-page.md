@@ -5,7 +5,7 @@ layout: slide
 class: title-slide
 
 notes: |
-  :)
+  Now that we've got a `pictures.html` page, we can start filling it up with images.
 
 ---
 

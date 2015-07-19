@@ -1,5 +1,5 @@
 ---
-title: gallery-image-css
+title: gallery-large-image-css
 section: gallery
 layout: slide
 class: default-slide

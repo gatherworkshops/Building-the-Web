@@ -2,27 +2,23 @@
 title: gallery-html
 section: gallery
 layout: slide
-class: default-slide
+class: centered-slide
 
 notes: |
-  Move on once everyone has at least two images in their gallery.
+
+  Add at least three images to your pictures page.
+
+  Don't worry about the sizes for now, we will fix that next.
 
 ---
 
-## Gallery
+## Adding Images
 
-Now we can create a gallery.
+In your `page-content` section, add the images:
 
-Here's the code to add one image to your gallery:
+	<img src="images/first-pic.jpg">
+    <img src="images/another-pic.jpg">
+    <img src="images/cool-photo.jpg">
+    <img src="images/cute-bunny.jpg">
 
-	<section class="gallery">
-
-		<h2>Gallery</h2>
-
-		<img src="http://gathergather.co.nz/grumpy-cat.png">
-
-	</section>
-
-See if you can add at least three images.
-
-Don't worry about the sizes for now, we will fix that next.
+_Add the images to your HTML_
