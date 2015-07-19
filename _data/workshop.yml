@@ -124,6 +124,9 @@
 - sectionname: gallery
   slides:
     - title-page
+    - gallery-image-download
+    - gallery-image-upload
+    - gallery-image-naming
     - gallery-html
     - gallery-css
     - gallery-image-css
