@@ -10,6 +10,8 @@ notes: |
 
   You can choose between a tiled or a full-screen background for your website.
 
+  Download one of the same images from the slide to get started. You can replace it with your own image once you've got it working.
+
   The next slide has example code for tiled backgrounds, and the slide after it has example code for a full-screen background.
 
   Choose one or the other for your site.
@@ -17,19 +19,19 @@ notes: |
 ---
 
 
-## Page Backgrounds
+## Choose a Background Type
 
 <div class="two-table">
 
 <div>
-<img src="/Building-the-Web/slides/workshop/layoutbuilder/images/tiled-example.jpg" width="250">
+<img src="/Building-the-Web/slides/workshop/layoutbuilder/images/ravens-tile.gif" height="220">
 <h3>Tiled</h3>
 <p>A smaller image which repeats<br>
 to fill the whole page.</p>
 </div>
 
 <div>
-<img src="/Building-the-Web/slides/workshop/layoutbuilder/images/fullscreen-example.jpg" width="250">
+<img src="/Building-the-Web/slides/workshop/layoutbuilder/images/tree-cover.jpg" height="220">
 <h3>Full-Screen</h3>
 <p>A large image which stretches<br>
 to fill the whole page.</p>
@@ -37,7 +39,15 @@ to fill the whole page.</p>
 
 </div>
 
+<div class="clearer"></div>
+
+_Right-click an image and "Save Image As..."_
+
 <style>
+.two-table {
+  padding-bottom: 30px;
+}
+
 .two-table div {
     box-sizing: border-box;
     float: left;
@@ -53,5 +63,9 @@ to fill the whole page.</p>
 
 .two-table div:first-of-type {
     border: none;
+}
+
+.clearer {
+  clear: both;
 }
 </style>
