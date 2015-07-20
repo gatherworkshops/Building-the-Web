@@ -13,6 +13,6 @@ notes: |
 
 ## Upload Gallery Images
 
-<img src="/Building-the-Web/slides/workshop/gallery/images/flickr-image-download.gif" width="100%">
+<img src="/Building-the-Web/slides/workshop/gallery/images/upload-gallery-image.gif" width="100%">
 
 _Upload the images to your `images` folder_

@@ -5,12 +5,16 @@ layout: slide
 class: centered-slide
 
 notes: |
-  Once you've downloaded the images you want to use,
+  Rename each of your photos to have simple names. This will make it easier to type the file names into your code.
+
+  Remember that file names for websites should be all lowercase letters (no capitals!) and should have no spaces.
+
+  Instead of a space, you can use underscore `_` or dash `-`.
 
 ---
 
 ## Rename Image Files
 
-<img src="/Building-the-Web/slides/workshop/gallery/images/flickr-image-download.gif" width="100%">
+<img src="/Building-the-Web/slides/workshop/gallery/images/rename-gallery-image.gif" width="100%">
 
 _Change your image names to simple ones_
