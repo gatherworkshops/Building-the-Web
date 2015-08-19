@@ -57,12 +57,12 @@
     - applying-classes
     - font-styles
     - block-elements
-    - header-block-html
     - header-block-css
-    - info-section-html
+    - header-block-html
     - info-section-css
-    - gallery-section-html
+    - info-section-html
     - gallery-section-css
+    - gallery-section-html
     - gallery-image-css
     - class-vs-element
     - whole-page-styles
