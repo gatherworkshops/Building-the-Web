@@ -13,3 +13,6 @@ collections:
     output: true
   slides:
     output: false
+  courses:
+    output: true
+    layout: chapter
